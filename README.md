@@ -1,8 +1,5 @@
 # MNIST-Digit-Recognition-SD
-MNIST Digital Recognition Project Notebook
-05 Feb 2022
 
-BY SURBHI DHIR
 Overview
 In this notebook, we will train models to recognize digits from a dataset of hand-written digits called MNIST ("Modified National Institute of Standards and Technology") which has been used for benchmarking image classifiers. One potential business application of algorithmic identification of handwritten writing is the automatic digitization of handwritten documents. A model which can recognize human handwriting could be used to create a program that takes handwritten documents as input and returns a digitized document such as a PDF as output.
 
