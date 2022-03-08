@@ -7,7 +7,7 @@ There are many applications for this technology, such as converting student hand
 
 MNIST is known as a "hello world" dataset because it's very basic.
 Each image is 28 by 28 pixels, represented in the data by 784 columns (one for each pixel) holding a value of 0 to 255 to represent darkness of the pixel, with higher values being darker.
-The dataset has 60,000 data points for the training set and 10,000 for the testing set. We will execute three models (SVM, and CNN) on this dataset and see which one performs the "best."
+The dataset has 60,000 data points for the training set and 10,000 for the testing set. We will execute two models (SVM and CNN) on this dataset and see which one performs the "best."
 To determine this, we will measure the accuracy of the model, or the number of digits it correctly identified over the total number of digits in the dataset.
 SVM:
 Support vector machines (SVMs) are particular linear classifiers which are based on the margin maximization principle. They perform structural risk minimization, which improves the complexity of the classifier with the aim of achieving excellent generalization performance. The SVM accomplishes the classification task by constructing, in a higher dimensional space, the hyperplane that optimally separates the data into two categories.
